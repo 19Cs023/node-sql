@@ -1,33 +1,35 @@
-# node-sql
+# 🍔 Food Delivery Application - Backend
 
-Node.js project for working with SQL databases.
+Backend API for a Food Delivery Application built using **Node.js**, **Express.js**, and **MySQL**. This project provides RESTful APIs for user authentication, restaurant management, menu management, cart operations, order processing, and payment integration.
 
-## Overview
+---
 
-This repository contains a Node.js application for connecting to and querying a SQL database.
+## 🚀 Features
 
-## Features
+- User Registration & Login
+- JWT Authentication & Authorization
+- Restaurant Management
+- Menu Item Management
+- Cart Functionality
+- Order Placement & Tracking
+- Role-Based Access Control (Admin/User)
+- MySQL Database Integration
+- Input Validation & Error Handling
+- RESTful API Architecture
 
-- SQL database connectivity
-- Query execution
-- Basic project structure for Node.js development
+---
 
-## Getting Started
+## 🛠️ Tech Stack
 
-1. Install dependencies:
+- Node.js
+- Express.js
+- MySQL
+- JWT (JSON Web Token)
+- bcrypt.js
+- dotenv
+- cors
+- express-validator
 
-```bash
-npm install
-```
+---
 
-2. Configure your database connection settings.
-
-3. Run the application:
-
-```bash
-npm start
-```
-
-## Notes
-
-Update this README with project-specific setup, environment variables, and usage details as the codebase grows.
+## 📂 Project Structure
